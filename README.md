@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Golam Rabbany</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer </h3>
 <p> Over the past 9 years, as a Front-end Developer, I have designed, developed, and launched customized, highly responsive websites and e-commerce solutions using advanced technologies. In addition, I have consistently met client expectations and project milestones while working effectively in deadline-driven environments. Please consider the following highlights: </p>
 <ul>
 <li>Designed and developed front-end for 200+ webpages using jQuery, JavaScript, HTML5, and CSS/Bootstrap </li>
